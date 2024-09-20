@@ -16,7 +16,7 @@ const forgotPassController = async (req, res) => {
     await user.save();
   
     await sendOtpEmail(email, otp);
-    res.send('OTP sent to your email');
+    res.send('OTP sent to your email kindly check');
   }
 
 

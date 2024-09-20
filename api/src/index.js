@@ -10,6 +10,7 @@ import googleSignRoute from './routes/authentication/googleSign.js';
 import forgotPassRoute from './routes/authentication/forgotPassword.js';
 import resetPassRoute from './routes/authentication/resetPassword.js';
 import updateFieldRoute from './routes/authentication/updateFields.js';
+import verifyEmailRoute from './routes/authentication/verifyEmail.js';
 
 const app = express()
 dotenv.config();
@@ -25,6 +26,7 @@ app.use('/api',regenerateToken)
 app.use('/api',forgotPassRoute)
 app.use('/api',resetPassRoute)
 app.use('/api',updateFieldRoute)
+app.use('/api',verifyEmailRoute)
 
 
 
