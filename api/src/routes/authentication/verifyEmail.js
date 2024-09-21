@@ -1,7 +1,8 @@
-import express from 'express'
-import verifyemailController from '../../controllers/verifyemailController.js';
+import express from 'express';
+import verifyEmail from '../../controllers/verifyemailController.js'
 const verifyEmailRoute = express.Router();
 
-verifyEmailRoute.post('/verify-email',verifyemailController)
+
+verifyEmailRoute.post('/verifyemail', verifyEmail);
 
 export default verifyEmailRoute

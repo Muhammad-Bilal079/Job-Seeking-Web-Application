@@ -33,7 +33,7 @@ const userSchema = new mongoose.Schema({
     },
     phoneNumber: {
       type: String,
-      required: false,
+      required: [true, 'Phone Number is required'],
       trim: true,
       validate: {
         validator: validator.isMobilePhone,

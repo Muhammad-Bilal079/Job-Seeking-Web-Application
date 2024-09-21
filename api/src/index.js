@@ -26,7 +26,9 @@ app.use('/api',regenerateToken)
 app.use('/api',forgotPassRoute)
 app.use('/api',resetPassRoute)
 app.use('/api',updateFieldRoute)
+
 app.use('/api',verifyEmailRoute)
+
 
 
 
