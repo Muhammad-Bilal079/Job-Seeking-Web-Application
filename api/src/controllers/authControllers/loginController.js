@@ -1,7 +1,7 @@
-import User from "../models/user.js";
+import User from "../../models/user.js";
 import bcrypt from 'bcrypt'
 import { body, validationResult } from 'express-validator';
-import { generateToken,setTokenCookie} from '../services/jwtToken.js'
+import { generateToken,setTokenCookie} from '../../services/jwtToken.js'
 
 let loginController = async (req, res) => {
 

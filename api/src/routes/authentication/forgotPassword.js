@@ -1,5 +1,5 @@
 import express from 'express'
-import forgotPassController from '../../controllers/forgotPassController.js';
+import forgotPassController from '../../controllers/authControllers/forgotPassController.js';
 const forgotPassRoute = express.Router();
 
 forgotPassRoute.post('/forgot-password',forgotPassController)

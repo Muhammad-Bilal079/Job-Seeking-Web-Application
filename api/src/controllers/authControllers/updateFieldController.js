@@ -1,4 +1,4 @@
-import User from "../models/user.js";
+import User from "../../models/user.js";
 
 const updateFieldController = async (req, res) => {
     const userId = req.params.id;

@@ -1,5 +1,5 @@
-import User from "../models/user.js";
-import sendOtpEmail from "../services/nodemailer.js";
+import User from "../../models/user.js";
+import sendOtpEmail from "../../services/nodemailer.js";
 
 
 const forgotPassController = async (req, res) => {

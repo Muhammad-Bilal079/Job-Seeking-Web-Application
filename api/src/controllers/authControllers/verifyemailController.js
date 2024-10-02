@@ -1,4 +1,4 @@
-import User from "../models/user.js";
+import User from "../../models/user.js";
 
  const verifyEmail = (req,res)=>{
     res.send('verify')

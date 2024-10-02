@@ -1,6 +1,6 @@
 import express from 'express'
-import registrationController from '../../controllers/registrationController.js';
-import registerValidationRules from '../../validationRules/registerValidation.js'
+import registrationController from '../../controllers/authControllers/registrationController.js';
+import registerValidationRules from '../../validationRules/authValidationRules/registerValidation.js'
 const registerRoute = express.Router();
 
 
