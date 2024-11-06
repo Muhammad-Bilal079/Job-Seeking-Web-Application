@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/bg.png");
+	background: linear-gradient(rgba(183, 100, 100, 0.2), rgba(0, 0, 0, 0.2));
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color:rgb(27, 21, 21);
+} */
+
+body {
+	/* Ek soft, pastel gradient rakha gaya hai taake look aur feel decent aur polished ho */
+	background: linear-gradient(to bottom, rgba(245, 245, 245, 0.9), rgba(210, 210, 210, 0.9));
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: black; /* Light grey color for a neutral background */
+	color: black; /* Dark grey for better readability */
+}
+
+
+
+
+/* dark mode looking scrollbar */
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: #555;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #121212;
+	border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #242424;
+}
+
+/* SHAKE ANIMATION ON HORIZONTAL DIRECTION */
+.shake {
+	animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) 0.2s both;
+	transform: translate3d(0, 0, 0);
+	backface-visibility: hidden;
+	perspective: 1000px;
+}
+
+@keyframes shake {
+	10%,
+	90% {
+		transform: translate3d(-1px, 0, 0);
+	}
+
+	20%,
+	80% {
+		transform: translate3d(2px, 0, 0);
+	}
+
+	30%,
+	50%,
+	70% {
+		transform: translate3d(-4px, 0, 0);
+	}
+
+	40%,
+	60% {
+		transform: translate3d(4px, 0, 0);
+	}
+}
