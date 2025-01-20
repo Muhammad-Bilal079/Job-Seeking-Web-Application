@@ -1,0 +1,3735 @@
+[
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is JSX?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is a React component?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of useState?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the Virtual DOM in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a functional component in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What are props in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "How do you pass data from one component to another in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between state and props in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a class component in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is React Fragment?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of ReactDOM.render()?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What are React hooks?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle events in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of useEffect in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What are key attributes in lists, and why are they important?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is conditional rendering in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the return statement in a React component?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "How do you add styles to a React component?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between a controlled and uncontrolled component in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Beginner",
+      "question": "What is the default export in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the Context API, and how do you use it?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is lazy loading in React, and how is it implemented?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between useCallback and useMemo?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What are Higher-Order Components (HOC), and how are they used?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is Prop Drilling, and how can it be avoided?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle forms in React with validation?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of custom hooks, and how do you create one?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "How do you optimize performance in a React application?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What are controlled components, and how are they used in forms?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of React.memo?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What are React Portals, and when are they useful?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between Redux and Context API?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is server-side rendering (SSR) in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between async and defer attributes in script tags?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "How do you fetch data in React using async/await?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What is the role of reducers in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "How do you manage state in a React application without using Redux?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Midlevel",
+      "question": "What are React Suspense and its use cases?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What are React Refs, and how do you use them?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of useImperativeHandle hook in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between PureComponent and React.memo?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between static and dynamic routing?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement code splitting in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you use the useLayoutEffect hook?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is a render prop in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you set up a testing environment in React using Jest and React Testing Library?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What are the limitations of React Context API?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How does React handle error boundaries?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is React Fiber, and how does it improve React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement a custom renderer in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle complex state management in React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between React Native and React?"
+    },
+    {
+      "topic": "React",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate WebSockets in a React application?"
+    },
+  
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is Next.js, and why is it used?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is server-side rendering (SSR) in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between client-side and server-side rendering?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a new Next.js project?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What are pages in Next.js, and how do you create them?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `pages` folder in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is a dynamic route in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you add CSS to a Next.js project?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `public` folder in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is pre-rendering in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between SSR and static site generation (SSG)?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a custom `404` page in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you navigate between pages in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `getStaticProps` function in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `getServerSideProps` function in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `getStaticPaths` function used for in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you use images in Next.js using the `next/image` component?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `_app.js` file in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `_document.js` file in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Beginner",
+      "question": "What are API routes in Next.js, and how do you create them?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement dynamic routing in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is incremental static regeneration (ISR) in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you fetch data client-side in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you optimize images in Next.js using the Image Optimization API?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are middleware functions in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle environment variables in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `next.config.js` in a Next.js project?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you integrate Redux or Zustand with Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How does Next.js handle CSS modules?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are fallback pages in dynamic routing with `getStaticPaths`?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you protect routes in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement authentication in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between CSR and SSR in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you integrate TypeScript with Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of React Hydration in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle redirects in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Midlevel",
+      "question": "How does the `useRouter` hook work in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "What is a custom server in Next.js, and how do you create one?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement middleware for logging requests in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you optimize Lighthouse scores for a Next.js app?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between static rendering and ISR in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you improve performance with caching in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle custom error pages in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you debug a Next.js application in production?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate GraphQL in Next.js?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "What is React Server Components, and how does Next.js implement it?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you deploy a Next.js app to a custom server or hosting platform?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "What are static paths, and how are they used with ISR?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle session management in Next.js with cookies?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "What are edge functions in Next.js, and how do they work?"
+    },
+    {
+      "topic": "Next.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate a headless CMS like Contentful or Strapi in Next.js?"
+    },
+  
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between Node.js and JavaScript?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "How does Node.js handle asynchronous programming?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the event loop in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of npm (Node Package Manager)?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a new Node.js project?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What are callbacks in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `require` function in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `fs` module in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `path` module in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a basic HTTP server in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `require()` and `import` in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is middleware in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is Express.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is an event emitter in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What are streams in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of `console.log()` in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `process` object in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle errors in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How does the event loop work in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are Promises in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are async/await in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Express middleware?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the `body-parser` middleware?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you set up and connect a MongoDB database with Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `mongoose` library used for?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of environment variables in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the role of `app.use()` in an Express.js application?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle routing in Express.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is `next()` function in Express.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are the differences between `POST` and `GET` requests?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement authentication in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is JWT (JSON Web Token) in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create and use custom modules in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement file upload functionality in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle CORS in a Node.js application?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `cluster` module in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are worker threads in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you build a scalable application in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you optimize performance in a Node.js application?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "What are streams, and how do you use them for large file uploads?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle security in Node.js applications?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Redis with Node.js for caching?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement rate-limiting in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between child processes and worker threads?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle background jobs and task queues in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you monitor and log Node.js applications in production?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use web sockets for real-time communication in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "What are microservices, and how do you implement them in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement a RESTful API in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "What is the event-driven architecture in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use async hooks in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you deploy a Node.js application using Docker?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle graceful shutdown in Node.js?"
+    },
+    {
+      "topic": "Node.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle memory leaks in Node.js?"
+    },
+    
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `app.listen()` in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is a route in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is middleware in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you define a GET route in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you define a POST route in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `res.send()` in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you send a JSON response in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `next()` function in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `app.get()` and `app.post()` in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you serve static files in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle form data in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `express.json()` middleware?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle query parameters in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `express.Router()` used for?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle errors in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `req.body` and `req.params`?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you connect a MongoDB database with Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create custom middleware in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `express.static()`?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the role of `res.status()` in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle authentication in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What are the differences between `app.use()` and `app.all()`?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform validation of incoming data in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement file upload functionality in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle cross-origin requests in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle HTTP methods like PUT and DELETE in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `app.locals` in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle redirects in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement sessions in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `express-validator` module?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you manage environment variables in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you deploy an Express.js app to production?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `express-session`?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement logging in an Express.js application?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle error handling and debugging in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT authentication in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `express.Router()` in complex Express.js apps?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle rate limiting in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "What are best practices for structuring large Express.js applications?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Express.js with a GraphQL API?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle background tasks in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Redis with Express.js for caching?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement WebSocket communication in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "What are the performance considerations when working with Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle security vulnerabilities like CSRF in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement microservices with Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Express.js with Docker for containerized applications?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage session persistence in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle large-scale file uploads in Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "What are some strategies for testing Express.js applications?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement serverless architecture with Express.js?"
+    },
+    {
+      "topic": "Express.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement versioning for your Express.js API?"
+    },
+    
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you install NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `@nestjs/core` in a NestJS project?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is a module in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is a controller in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is a service in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a new controller in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you define routes in a NestJS controller?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `@Get()`, `@Post()`, and other decorators in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is dependency injection in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you inject a service into a controller in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `@Injectable()` decorator in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of the `main.ts` file in a NestJS application?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle HTTP requests and responses in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is middleware in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you create middleware in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle exceptions in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of `@Module()` in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "What is a provider in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Beginner",
+      "question": "How do you set up global filters in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle validation in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What is a custom provider in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `@Body()`, `@Query()`, `@Param()`, and `@Headers()` decorators?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What is the role of `@UseGuards()` in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle authentication and authorization in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create and use guards in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `@Query()` decorator in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create a custom exception filter in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you manage database connections in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement pagination in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What are interceptors in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `@Transaction()` decorator in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement file uploads in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What are pipes in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create a custom pipe in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "What are the advantages of using NestJS with TypeORM?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement a cron job in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle real-time communication using WebSockets in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement caching in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage multiple environments in a NestJS application?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement GraphQL with NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform unit testing in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you set up microservices in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Docker with NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `@Module()` in advanced NestJS projects?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement custom decorators in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT authentication in a NestJS application?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "What are the best practices for structuring a large-scale NestJS application?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage session persistence in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement CI/CD with NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "What are the common performance optimization techniques in NestJS?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate NestJS with serverless architecture?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "How do you deploy a NestJS application to production using Kubernetes?"
+    },
+    {
+      "topic": "NestJS",
+      "experienceLevel": "Advanced",
+      "question": "What are some strategies for implementing rate-limiting in NestJS?"
+    },
+    
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is a document in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is a collection in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you connect to MongoDB using Node.js?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between MongoDB and SQL databases?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you insert a document into a collection in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you retrieve documents from a MongoDB collection?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `find()` method in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you update a document in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you delete a document from a collection in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What are indexes in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you create an index in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `ObjectId` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the MongoDB shell?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of the `db` object in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you define a schema in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `insertOne()` and `insertMany()` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle data validation in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What is aggregation in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Beginner",
+      "question": "What are the different types of queries supported by MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create a connection pool in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `updateOne()` and `updateMany()` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `$set` operator in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `$push` operator in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `$addToSet` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `$in` operator in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform a join-like operation in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `aggregate()` function in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `$lookup` stage in aggregation?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `MongoClient` in MongoDB Node.js driver?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement pagination in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform a full-text search in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is sharding in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What are the different types of indexes in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `explain()` method in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is replica set in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between a primary and secondary replica in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle errors and exceptions in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `$unwind` operator in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you optimize query performance in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `mongod` and `mongo` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle large-scale data migration in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement transactions in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement multi-document transactions in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What is the aggregation pipeline in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle schema-less data in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform data modeling in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What is the role of `writeConcern` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What are the performance implications of using indexes in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What is the role of `readConcern` in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What are the best practices for securing MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement backup and restore in MongoDB?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "What is the role of `MongoDB Atlas` in managing MongoDB clusters?"
+    },
+    {
+      "topic": "MongoDB",
+      "experienceLevel": "Advanced",
+      "question": "How do you scale MongoDB horizontally?"
+    },
+  
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is Mongoose and how does it relate to MongoDB?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you connect to a MongoDB database using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is a schema in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you define a model in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a new document in MongoDB using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you save a document to a collection in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you retrieve documents from a Mongoose model?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is the `find()` method in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you update a document in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you delete a document using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is a schema type in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What are the different schema types available in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between a `model` and a `schema` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you validate a document in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you use the `required` validator in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is a `ref` in Mongoose and how do you use it?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is a `populate` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you use the `populate()` method in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What are virtuals in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "What is middleware in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Beginner",
+      "question": "How do you use pre and post middleware in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you define default values for schema fields in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform an aggregate query in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `aggregate()` method in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `$match` stage in aggregation using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform sorting in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `distinct()` method in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `lean()` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you update multiple documents in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle errors when querying documents in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `updateOne()` method in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement pagination in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you add indexes to fields in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `select()` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `schema.path` to get a specific field's definition in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `Model.create()` to insert multiple documents in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use a custom validator in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you define an embedded schema in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Mongoose with Express?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `countDocuments()` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you use multi-document transactions in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What are the performance considerations when using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What is the `Schema.Types.ObjectId` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement complex validation logic in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `Model.findOneAndUpdate()` in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement hooks in Mongoose for auditing purposes?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform complex aggregations using Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What is the `save()` method in Mongoose and how does it work?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What are subdocuments in Mongoose and how are they used?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "What are some common Mongoose performance optimizations?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement middleware for logging and auditing in Mongoose?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle circular references in Mongoose schemas?"
+    },
+    {
+      "topic": "Mongoose",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement versioning for documents in Mongoose?"
+    },
+  
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is Passport.js and how does it help with authentication?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Passport.js in a Node.js application?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is a Passport strategy?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you configure Passport.js in an Express application?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you authenticate a user using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of `passport.initialize()` in an Express app?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is `passport.session()` used for in an Express app?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you implement a local strategy in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle login and signup with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you set up a session after successful authentication in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What are the different types of Passport strategies?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you use Passport.js with session-based authentication?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `passport.authenticate()` in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle user login failures with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you configure Passport.js to serialize and deserialize user information?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you log out a user using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `LocalStrategy` in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you use Passport.js with MongoDB to store user credentials?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a custom authentication strategy in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Beginner",
+      "question": "What is the `authenticate()` method in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement OAuth authentication using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you authenticate a user using Google OAuth in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you configure Passport.js for Facebook authentication?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Passport.js with JWT (JSON Web Tokens)?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you create a custom middleware for authentication with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement a custom callback function after successful authentication with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle user registration and login using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `passport-google-oauth20` strategy in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you set up Passport.js with a database to persist user sessions?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement a callback URL after successful authentication in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you prevent session hijacking using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle multiple authentication strategies in a single application?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `passport-facebook-token` for Facebook token-based authentication?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you manage user sessions with Passport.js and Redis?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `serializeUser()` and `deserializeUser()` function in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement an authentication middleware with Passport.js for protecting routes?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle multiple login attempts and prevent brute force attacks using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the `failWithError` option in `passport.authenticate()`?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement custom OAuth strategies in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage user roles and permissions with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement refresh tokens with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Passport.js with a multi-factor authentication system?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle cross-origin resource sharing (CORS) in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement Passport.js with an API that does not use sessions?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Passport.js in a microservices architecture?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement social login (Google, Facebook, etc.) with Passport.js in a single-page application?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you troubleshoot and debug authentication issues in Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Passport.js with serverless functions?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle authentication for mobile applications using Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement token revocation with Passport.js?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Passport.js with an enterprise-level authentication system?"
+    },
+    {
+      "topic": "Passport.js",
+      "experienceLevel": "Advanced",
+      "question": "What is the difference between session-based authentication and token-based authentication in Passport.js?"
+    },
+  
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is JWT (JSON Web Token) and what are its main components?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you generate a JWT token?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What are the three parts of a JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you verify a JWT token?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between a JWT and a session-based token?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you decode a JWT token?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of a JWT secret key?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you add a payload to a JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the typical use case for JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How does JWT help with stateless authentication?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between the `HS256` and `RS256` algorithms used in JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you send a JWT in an HTTP request?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle JWT expiration?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What are the advantages of using JWT for authentication?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How can you store JWT tokens securely in a web application?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What does it mean when a JWT is signed but not encrypted?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `exp` claim in a JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How can you handle JWT token renewal (refresh tokens)?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "What is the `iat` claim in a JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you use JWT for API authentication?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Beginner",
+      "question": "How do you invalidate a JWT token?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "What are JWT claims and what are the types of claims available?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use JWT tokens with Express.js?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement JWT-based authentication with refresh tokens?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "What are the security concerns when using JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you store and manage JWT tokens in a Node.js application?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How can you use JWT for role-based authentication?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the `aud` (audience) and `iss` (issuer) claims in JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you set JWT token expiration and refresh the token once expired?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement JWT authentication with passport.js?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you secure a JWT token using HTTPS?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How can you use JWT for Single Sign-On (SSO) authentication?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you prevent JWT token tampering?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you verify a JWT token's signature and validate the claims?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "What is the role of `privateKey` and `publicKey` when using RSA encryption for JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between symmetric and asymmetric signing algorithms in JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you revoke or invalidate a JWT token before it expires?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you store JWT tokens in cookies for browser-based applications?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use JWT with microservices?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement multi-factor authentication (MFA) with JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "What is the impact of JWT token size on application performance?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you design a JWT-based API with granular permissions and role management?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT with OAuth2 and OpenID Connect?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "What is token expiration strategy for highly sensitive data and long sessions?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you scale JWT-based authentication for large distributed systems?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle JWT storage securely in mobile apps?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT with serverless architectures?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle long-running processes and session expiry with JWT?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How can JWT help in preventing CSRF (Cross-Site Request Forgery) attacks?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT with custom claims for better user tracking?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage JWT tokens in a multi-tenant application?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you mitigate token replay attacks in a JWT-based system?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement JWT for authorization in a RESTful API?"
+    },
+    {
+      "topic": "JWT",
+      "experienceLevel": "Advanced",
+      "question": "What are the challenges in implementing JWT with real-time applications like WebSockets?"
+    },
+  
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is OAuth, and how does it work?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What are the main components of OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between OAuth 1.0 and OAuth 2.0?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What are the different OAuth flows?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is an OAuth authorization code?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is an OAuth access token?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of the authorization server in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the role of the resource server in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What are the common OAuth grant types?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How do you obtain an OAuth access token?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of client credentials in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How does OAuth authorization grant work?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the scope in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What are refresh tokens in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How is OAuth used for securing APIs?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How do you implement OAuth in a web application?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the redirect URI in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How do you store OAuth access tokens securely?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "How do you revoke an OAuth access token?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Beginner",
+      "question": "What is the authorization code flow in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between the authorization code flow and implicit flow?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement OAuth with third-party services like Google, Facebook, etc.?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you refresh an OAuth access token using a refresh token?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the concept of 'scopes' in OAuth, and how do they control access?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you securely store refresh tokens in a client-side application?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the client secret in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the resource owner password credentials flow in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How does OAuth handle consent for accessing resources?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the authorization header in OAuth requests?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between OAuth and OpenID Connect?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement OAuth with a mobile application?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the PKCE extension in OAuth 2.0?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What is the client credentials grant type, and when should you use it?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement OAuth with Node.js and Express?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What are the security best practices for OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "What are the potential vulnerabilities in OAuth, and how can they be mitigated?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How does OAuth handle cross-site request forgery (CSRF) attacks?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle OAuth authorization in single-page applications (SPAs)?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle multi-tenancy in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you implement OAuth for single sign-on (SSO)?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use OAuth with JWT (JSON Web Tokens)?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Midlevel",
+      "question": "How do you protect OAuth access tokens from being stolen?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement OAuth in a microservices architecture?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How does OAuth handle long-lived sessions and token expiration?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What is OAuth's role in federated identity management?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What is OAuth 2.1, and how is it different from OAuth 2.0?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What is the impact of OAuth token revocation on security?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you scale OAuth-based authentication for a large user base?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement OAuth in a decentralized identity system?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle OAuth token leaks in client-side applications?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What is the best practice for handling refresh tokens in OAuth?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What is the role of OAuth in securing cloud services?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement OAuth 2.0 with custom authorization servers?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you audit OAuth token usage for security compliance?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement OAuth with custom client applications?"
+    },
+    {
+      "topic": "OAuth",
+      "experienceLevel": "Advanced",
+      "question": "What are the considerations for implementing OAuth in highly secure environments?"
+    },
+   
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is Jest, and why is it used in JavaScript applications?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Jest in a Node.js project?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a simple test case using Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `describe` block in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `it` or `test` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `expect` and `assert` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is a mock function in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the use of `beforeEach` and `afterEach` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you run Jest tests in a Node.js project?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you run a specific test in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What are snapshot tests in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `toBe` and `toEqual` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you test asynchronous code in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you test a promise in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is a spy function in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you use `jest.fn()` to mock a function?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What is the `jest.mock` method used for?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What does `jest.clearAllMocks` do?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "What are test suites and test cases in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Beginner",
+      "question": "How do you disable a test in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What are the different matchers available in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `jest.spyOn()` for spying on a method?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you mock a module with Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `jest.clearAllMocks()` and when should you use it?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `jest.useFakeTimers()` for mocking timers?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is `jest.runAllTimers()` used for?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test a function that interacts with an external API in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `jest.resetAllMocks()`?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test React components with Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Jest with Enzyme for testing React components?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between `jest.fn()` and `jest.mock()`?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you run Jest with TypeScript?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `jest-cli` package and how is it used?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test Redux reducers with Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle mocking async functions in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you mock a class with Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between `beforeAll` and `beforeEach` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle cleanup of mock functions after each test?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "What are the performance considerations when running large Jest test suites?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you implement test coverage in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `jest.mock()` and how does it differ from `jest.spyOn()`?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How can you mock modules that have side effects in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you test a function that uses `setInterval()` in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `jest.runOnlyPendingTimers()`?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle mocking `async/await` functions in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `jest.deepEqual()` and when should it be used?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle mocking dynamic imports in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you deal with testing large and complex component trees in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage mocking dependencies for different test environments in Jest?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How can you use Jest with CI/CD pipelines for continuous testing?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle mocking third-party libraries that do not provide mocks?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Jest with other testing tools like Cypress or Selenium?"
+    },
+    {
+      "topic": "Jest",
+      "experienceLevel": "Advanced",
+      "question": "What are the benefits and limitations of using Jest for large-scale"
+    }, 
+  
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is Mocha, and why is it used in JavaScript applications?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Mocha in a Node.js project?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you create a simple test case using Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `describe` function in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `it` function in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What are the differences between `before`, `beforeEach`, `after`, and `afterEach` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you run Mocha tests in a Node.js project?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you run a specific test or group of tests in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What are assertions in Mocha, and how do they work?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you test asynchronous code in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you handle promises in Mocha tests?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you use `done` in Mocha for testing asynchronous code?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you skip a test in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you mark a test as pending in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `this.timeout()` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you test a function that calls a callback in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the difference between `beforeEach` and `before` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `afterEach` and `after` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of `require` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you use Mocha with Chai for assertions?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Beginner",
+      "question": "How do you use `assert` and `expect` for assertions in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you run Mocha tests with a specific reporter?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of the `mocha.opts` file?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What are the different types of reporters available in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle timeouts and delays in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test a function that makes HTTP requests in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test a function that uses timers like `setTimeout()` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `beforeAll` and `afterAll` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Mocha with continuous integration tools?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Mocha with TypeScript?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What is the difference between Mocha and Jest testing frameworks?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you configure Mocha to use Babel?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you mock dependencies or modules in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test a function that interacts with a database in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Mocha with Sinon for spies and mocks?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What are `beforeAll` and `afterAll` hooks used for in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `--watch` flag in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Midlevel",
+      "question": "How do you debug Mocha tests?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing a real-time application with Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Mocha with Webpack?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Mocha tests into a CI/CD pipeline?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle mocking complex modules in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you run Mocha tests in parallel?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you test WebSocket communication with Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of `this.skip()` in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you integrate Mocha with third-party assertion libraries like Chai or Should?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform end-to-end testing using Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "What is the purpose of the `done()` function in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing long-running processes in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you test and debug network requests in Mocha?"
+    },
+    {
+      "topic": "Mocha",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing large applications with Mocha?"
+    },
+   
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "What is Chai, and how is it used in JavaScript applications?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Chai in a Node.js project?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you integrate Chai with Mocha for writing assertions?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "What are the three assertion styles supported by Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you use the `expect` style for assertions in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you use the `should` style for assertions in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you use the `assert` style for assertions in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `equal` assertion in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is `true` in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is `false` in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is `null` in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is `undefined` in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if an array contains a specific value in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a string matches a regular expression in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if an object has a specific property in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if an array is empty in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is an instance of a specific class in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is a function in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is a string in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is a number in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if a value is an object in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `deep` assertion in Chai, and when do you use it?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you assert that two objects are deeply equal in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "What is the purpose of `include` in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai to check if a string contains a substring?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai to check if an object includes a key-value pair?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you check if an object has a specific method in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you check if a value is an instance of an error in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai to assert that a promise resolves successfully?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai to assert that a promise rejects with a specific error?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai to check the type of a value?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle testing asynchronous functions in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use the `assert` style with Chai for testing arrays?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Chai for testing HTTP requests with promises?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use `done` in Chai for asynchronous tests?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `not` assertion in Chai, and how do you use it?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "What are `before` and `beforeEach` hooks in Chai, and how do they work?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test a function that returns an HTTP response in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Midlevel",
+      "question": "How do you check for the status code of an HTTP response in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you assert a specific response header using Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Chai with Sinon for spying and mocking functions?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you mock an HTTP request in Chai using Sinon?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you create custom assertions in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you assert that a function throws an error in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you check that a function executes a callback with a specific argument using Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you test private methods of a class using Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform end-to-end testing with Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing complex nested objects in Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you test real-time applications using Chai?"
+    },
+    {
+      "topic": "Chai",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing when dealing with multiple asynchronous actions in Chai?"
+    },
+  
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What is Cypress, and how does it differ from other testing frameworks?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you install Cypress in a project?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you write a simple test using Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What is the `describe` block in Cypress, and how do you use it?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What is the `it` block in Cypress, and how do you use it?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What are `before`, `beforeEach`, `after`, and `afterEach` hooks in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you select elements in Cypress using selectors?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What is the purpose of the `cy.visit()` command in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you interact with input fields in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you simulate clicking a button using Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you check if an element exists on a page in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you wait for an element to appear in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you assert that the URL is correct in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "What is the `cy.get()` command, and how is it used?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you check the value of an element in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you check the visibility of an element in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you perform assertions using Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you take a screenshot during a test in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you use Cypress to test different browsers?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Beginner",
+      "question": "How do you mock API responses in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test multiple scenarios in one Cypress test?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle authentication in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Cypress to test file uploads?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you check the response status of an API call in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `cy.request()` command in Cypress, and how do you use it?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test forms and form validation using Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use Cypress to test a dynamic list of items?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you use custom commands in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test responsive design with Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle popups and alerts in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you test for cookies in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "What is the `cy.intercept()` command in Cypress, and how do you use it?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you handle multiple windows or tabs in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you simulate drag and drop actions in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you perform end-to-end testing in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Midlevel",
+      "question": "How do you organize and structure your Cypress tests?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you set up a continuous integration pipeline with Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you perform load testing with Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Cypress with Docker for testing?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you test GraphQL APIs using Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you simulate and test payment gateways in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle testing Progressive Web Apps (PWAs) with Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Cypress for accessibility testing?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you run Cypress tests in parallel?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle slow network conditions while testing with Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you configure Cypress to run tests on a remote server?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you debug Cypress tests using browser developer tools?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you write custom Cypress plugins?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you manage test data for Cypress tests?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle retries for failed tests in Cypress?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you run Cypress tests in headless mode?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you optimize Cypress tests for performance?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you handle third-party integrations like Google Analytics in Cypress tests?"
+    },
+    {
+      "topic": "Cypress",
+      "experienceLevel": "Advanced",
+      "question": "How do you use Cypress for visual regression testing?"
+    }
+  ]
